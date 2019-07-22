@@ -1,0 +1,23 @@
+{
+    "name": "sophokles/translation",
+    "description": "Sophokles Tranlation",
+    "type": "library",
+    "license": "LGPL-3.0-only / LGPL-3.0-or-later",
+    "authors": [
+      {
+        "name": "Bernd Wagner",
+        "email": "iron_angel2000@yahoo.de"
+      }
+    ],
+    "version" : "1.0.0",
+    "require": {
+      "php": ">=7.0, <7.4"
+    },
+    "autoload":{
+      "psr-4":{
+        "Sophokles\\Translation\\" : "src/"
+      }
+    }
+  }
+  
+  

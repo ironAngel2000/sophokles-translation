@@ -1,0 +1,22 @@
+{
+    "languages":{
+        "source":"en"
+    },
+    "translations":[
+        {
+            "source":"save"
+        },
+        {
+            "source":"cancel"
+        },
+        {
+            "source":"delete"
+        }, 
+        {
+            "source":"edit"
+        },
+        {
+            "source":"close"
+        }
+    ]
+}

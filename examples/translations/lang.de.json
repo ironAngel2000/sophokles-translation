@@ -1,0 +1,28 @@
+{
+    "languages":{
+        "source":"en",
+        "target":"de"
+    },
+    "translations":[
+        {
+            "source":"save",
+            "target":"speichern"
+        },
+        {
+            "source":"cancel",
+            "target":"abbrechen"
+        },
+        {
+            "source":"delete",
+            "target":"löschen"
+        }, 
+        {
+            "source":"edit",
+            "target":"bearbeiten"
+        },
+        {
+            "source":"close",
+            "target":"schließen"
+        }
+    ]
+}
