@@ -1,7 +1,7 @@
-Sophokles Tranlation Class
+Sophokles Translation Class
 ============================
 
-Sophokles Tranlation Helper
+Sophokles Translation Helper
 
 Installation
 ------------
