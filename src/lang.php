@@ -10,7 +10,7 @@ namespace Sophokles\Translation;
 
 final class lang
 {
-    private static $langugange;
+    private static $langugange='en';
 
     private function __construct()
     {
